@@ -7,13 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tresor13/hexlet-js-README.git"
+    "type": "module",
+    "url": "git+https://github.com/tresor13/hexlet-js.git"
   },
-  "author": "",
+  "author": "Dmytro Los <chicanodima@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tresor13/hexlet-js-README/issues"
+    "url": "https://github.com/tresor13/hexlet-js/issues"
   },
-  "homepage": "https://github.com/tresor13/hexlet-js-README#readme"
+  "homepage": "https://github.com/tresor13/hexlet-js#readme"
 }
