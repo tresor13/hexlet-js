@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/tresor13/hexlet-js/issues"
   },
-  "homepage": "https://github.com/tresor13/hexlet-js#readme"
+  "homepage": "https://github.com/tresor13/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.16.8",
+    "@babel/core": "^7.16.7",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.8"
+  }
 }
